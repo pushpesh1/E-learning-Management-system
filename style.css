@@ -1,0 +1,45 @@
+.logo {
+  height: 50px;
+  width: 100px;
+}
+.slider {
+  height: 600px;
+  width: 100%;
+}
+.Carousel {
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mainDiv {
+  padding-left: 10px;
+  display: flex;
+  justify-content: start;
+  
+}
+
+section select {
+  margin: 20px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.card img {
+  width: 100%;
+  height: 250px;
+}
+
+.card {
+  width: 350px;
+  height: 200px;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: space-between;
+}
